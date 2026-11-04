@@ -38,7 +38,7 @@ The project combines SQL queries with an interactive Streamlit dashboard to make
 
 The project uses three related tables:
 
-Applicants – Contains applicant information.
+- Applicants – Contains applicant information.
 
 - Interns – Contains internship details, domains, start dates, and completion status.
 
@@ -65,8 +65,6 @@ Applicants – Contains applicant information.
 - Clone or download this repository.
 
 - Install the required dependencies:
-
-- pip install -r requirements.txt
 
 ## Run the dashboard:
 
